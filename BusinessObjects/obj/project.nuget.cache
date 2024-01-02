@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6dUN4hL4rcrw7nQCMXJxcBO8IvzkmRvk7os1PNjAlK0hvQCwVNYaXWHtdrvP9Sa4Equc/uCD2FbgFXgtRHYCJA==",
+  "success": true,
+  "projectFilePath": "F:\\My_prac\\TrinhHuuTuan.Practice\\BusinessObjects\\BusinessObjects.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BIN\\.nuget\\packages\\mongodb.bson\\2.23.1\\mongodb.bson.2.23.1.nupkg.sha512",
+    "C:\\Users\\BIN\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\BIN\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

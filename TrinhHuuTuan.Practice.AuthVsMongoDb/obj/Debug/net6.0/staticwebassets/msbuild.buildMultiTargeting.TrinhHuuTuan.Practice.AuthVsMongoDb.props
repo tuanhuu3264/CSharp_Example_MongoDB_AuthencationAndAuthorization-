@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TrinhHuuTuan.Practice.AuthVsMongoDb.props" />
+</Project>

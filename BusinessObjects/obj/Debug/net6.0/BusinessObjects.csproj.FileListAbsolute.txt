@@ -1,0 +1,12 @@
+F:\My_prac\TrinhHuuTuan.Practice\BusinessObjects\bin\Debug\net6.0\BusinessObjects.deps.json
+F:\My_prac\TrinhHuuTuan.Practice\BusinessObjects\bin\Debug\net6.0\BusinessObjects.dll
+F:\My_prac\TrinhHuuTuan.Practice\BusinessObjects\bin\Debug\net6.0\BusinessObjects.pdb
+F:\My_prac\TrinhHuuTuan.Practice\BusinessObjects\obj\Debug\net6.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+F:\My_prac\TrinhHuuTuan.Practice\BusinessObjects\obj\Debug\net6.0\BusinessObjects.AssemblyInfoInputs.cache
+F:\My_prac\TrinhHuuTuan.Practice\BusinessObjects\obj\Debug\net6.0\BusinessObjects.AssemblyInfo.cs
+F:\My_prac\TrinhHuuTuan.Practice\BusinessObjects\obj\Debug\net6.0\BusinessObjects.csproj.CoreCompileInputs.cache
+F:\My_prac\TrinhHuuTuan.Practice\BusinessObjects\obj\Debug\net6.0\BusinessObjects.dll
+F:\My_prac\TrinhHuuTuan.Practice\BusinessObjects\obj\Debug\net6.0\refint\BusinessObjects.dll
+F:\My_prac\TrinhHuuTuan.Practice\BusinessObjects\obj\Debug\net6.0\BusinessObjects.pdb
+F:\My_prac\TrinhHuuTuan.Practice\BusinessObjects\obj\Debug\net6.0\ref\BusinessObjects.dll
+F:\My_prac\TrinhHuuTuan.Practice\BusinessObjects\obj\Debug\net6.0\BusinessObjects.csproj.AssemblyReference.cache

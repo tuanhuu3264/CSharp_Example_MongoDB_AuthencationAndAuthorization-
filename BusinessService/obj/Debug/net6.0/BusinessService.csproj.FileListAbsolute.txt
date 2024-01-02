@@ -1,0 +1,17 @@
+F:\My_prac\TrinhHuuTuan.Practice\BusinessService\bin\Debug\net6.0\BusinessService.deps.json
+F:\My_prac\TrinhHuuTuan.Practice\BusinessService\bin\Debug\net6.0\BusinessService.dll
+F:\My_prac\TrinhHuuTuan.Practice\BusinessService\bin\Debug\net6.0\BusinessService.pdb
+F:\My_prac\TrinhHuuTuan.Practice\BusinessService\bin\Debug\net6.0\BusinessObjects.dll
+F:\My_prac\TrinhHuuTuan.Practice\BusinessService\bin\Debug\net6.0\Repository.dll
+F:\My_prac\TrinhHuuTuan.Practice\BusinessService\bin\Debug\net6.0\BusinessObjects.pdb
+F:\My_prac\TrinhHuuTuan.Practice\BusinessService\bin\Debug\net6.0\Repository.pdb
+F:\My_prac\TrinhHuuTuan.Practice\BusinessService\obj\Debug\net6.0\BusinessService.csproj.AssemblyReference.cache
+F:\My_prac\TrinhHuuTuan.Practice\BusinessService\obj\Debug\net6.0\BusinessService.GeneratedMSBuildEditorConfig.editorconfig
+F:\My_prac\TrinhHuuTuan.Practice\BusinessService\obj\Debug\net6.0\BusinessService.AssemblyInfoInputs.cache
+F:\My_prac\TrinhHuuTuan.Practice\BusinessService\obj\Debug\net6.0\BusinessService.AssemblyInfo.cs
+F:\My_prac\TrinhHuuTuan.Practice\BusinessService\obj\Debug\net6.0\BusinessService.csproj.CoreCompileInputs.cache
+F:\My_prac\TrinhHuuTuan.Practice\BusinessService\obj\Debug\net6.0\BusinessService.csproj.CopyComplete
+F:\My_prac\TrinhHuuTuan.Practice\BusinessService\obj\Debug\net6.0\BusinessService.dll
+F:\My_prac\TrinhHuuTuan.Practice\BusinessService\obj\Debug\net6.0\refint\BusinessService.dll
+F:\My_prac\TrinhHuuTuan.Practice\BusinessService\obj\Debug\net6.0\BusinessService.pdb
+F:\My_prac\TrinhHuuTuan.Practice\BusinessService\obj\Debug\net6.0\ref\BusinessService.dll
